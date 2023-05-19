@@ -17,9 +17,5 @@
       echo "</tr>";
     }
   ?>
-<<<<<<< HEAD
-</table
-=======
 </table>
 
->>>>>>> 96c7111a0bbbc01ca6b24deffcbed0c7775dadde
